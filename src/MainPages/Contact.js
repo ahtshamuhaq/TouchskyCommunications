@@ -59,6 +59,7 @@ const ContactPage = () => {
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2432.4721284532426!2d-74.00594168404317!3d40.71277627933046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a20c5f6f1c3%3A0x79d35d16636c60f1!2sNew+York%2C+NY!5e0!3m2!1sen!2sus!4v1634926119823!5m2!1sen!2sus"
               width="100%"
               height="100%"
+              title='Description map'
               style={{ border: 0 }}
               allowFullScreen=""
               loading="lazy"
